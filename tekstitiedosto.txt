@@ -10,7 +10,7 @@ MITÄ KOODATAAN
 - Kamera
 - Items
 - Inventory
-- Vihuja
+- Vihuja (Liikkuminen tehty)
 - Ampuminen
 - Damage, Hp
 - Iskut a, b, spell
