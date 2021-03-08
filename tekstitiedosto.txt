@@ -5,8 +5,8 @@ YLEISTÄ
 - Alkuun kuutiot, lopuks hahmot ja animaatiot
 
 MITÄ KOODATAAN
-- Liikkuminen
-- Kolikot
+- Liikkuminen (tehty)
+- Kolikot Triggerillä
 - Kamera
 - Items
 - Inventory
