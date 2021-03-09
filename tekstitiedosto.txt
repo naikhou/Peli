@@ -6,12 +6,12 @@ YLEISTÄ
 
 MITÄ KOODATAAN
 - Liikkuminen (tehty)
-- Kolikot Triggerillä
+- Kolikot Triggerillä (tehty)
 - Kamera
 - Items
 - Inventory
-- Vihuja (Liikkuminen tehty, damage)
-- Ampuminen
+- Vihuja (Liikkuminen tehty, itsekseen ampuminen tehty)
+- Ampuminen (Pelaajalle?)
 - Damage, Hp
 - Iskut a, b, spell
 - Stats, pisteet
