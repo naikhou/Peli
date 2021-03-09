@@ -10,7 +10,7 @@ MITÄ KOODATAAN
 - Kamera
 - Items
 - Inventory
-- Vihuja (Liikkuminen tehty, tee nopeudesta vakio. Liike fixed updateen?)
+- Vihuja (Liikkuminen tehty, damage)
 - Ampuminen
 - Damage, Hp
 - Iskut a, b, spell
