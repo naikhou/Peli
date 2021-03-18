@@ -8,8 +8,8 @@ MITÄ KOODATAAN
 - Liikkuminen (tehty)
 - Kolikot Triggerillä (tehty)
 - Kamera
-- Items
-- Inventory
+- Items (suurinpiirtein tehty)
+- Inventory (suurinpiirtein tehty)
 - Vihuja (Liikkuminen tehty, itsekseen ampuminen tehty)
 - Ampuminen (Pelaajalle?)
 - Damage, Hp
